@@ -7,4 +7,4 @@
 |Jang_person|[jang-person](https://github.com/jang-person/sos-master)|
 |Choi_person|[choi-person](https://github.com/choi-person/sos-master)|
 |Kimheesung|[kimheesung](https://github.com/kimheesung/sos-master)|
-
+|Seokjin|[cpdim001](https://github.com/cpdim001/sos-master)|
